@@ -1,0 +1,5 @@
+M1 Manzana 1 2 20
+R1 Refrigerador 2 100 3
+T1 Tornillo 3 .5 200
+S1 Shampoo 4 10 10
+F1 Flor 5 5 15
